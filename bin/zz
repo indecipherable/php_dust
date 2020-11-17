@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+sudo cp * /var/www/html/
+sudo systemctl reload apache2
